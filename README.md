@@ -7,7 +7,7 @@
 
 - 📫 Contactez-moi ! **belazzoug.samy@outlook.fr**
 
-- ⚡ My hobby **I am everyday on my sim rig, let's on a racetrack !**
+- ⚡ My hobby **I am everyday on my sim rig, let's go on a racetrack !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
