@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samy-belazzoug&label=Profile%20views&color=0e75b6&style=flat" alt="samy-belazzoug" /> </p>
 
+- ☑️ Je maîtrise **Python, HTML, CSS, SQL**
+
 - 🌱 Entrain d'apprendre actuellement **JavaScript, Lua, Blender**
 
 - 📫 Contactez-moi ! **belazzoug.samy@outlook.fr**
