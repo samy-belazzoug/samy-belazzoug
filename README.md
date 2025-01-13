@@ -5,7 +5,7 @@
 
 - ☑️ Je maîtrise **Python, HTML, CSS, SQL**
 
-- 🌱 Entrain d'apprendre actuellement **JavaScript, Lua, Blender**
+- 🌱 Entrain d'apprendre actuellement **C, Java**
 
 - 📫 Contactez-moi ! **belazzoug.samy@outlook.fr**
 
