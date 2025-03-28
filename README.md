@@ -31,7 +31,7 @@
 
 ###
 
-<p align="center">😁Hello, I am Samy Belazzoug, Im 19 years old, living in Marseille, France. <br>🤝If someone humble, honest, respectful, funny and calm is what you're looking for, then I am the one to be in your  surroundings ! <br><br>🧑‍🎓I am currently a student at IT School La Plateforme_ preparing a Bachelor IT specialized in Software development..<br><br>🦾Fun fact : With the High school and La Plateforme, i've got 3 GREAT years in coding !</p>
+<p align="center">😁Hello, I am Samy Belazzoug, Im 19 years old, living in Marseille, France. <br>🤝If someone humble, honest, respectful, funny and calm is what you're looking for, then I am the one to be in your  surroundings ! <br><br>🧑‍🎓I am currently a student at IT School La Plateforme_ preparing a BSc IT specialized in Software development..<br><br>🦾Fun fact : With the High school and La Plateforme, i've got 3 GREAT years in coding !</p>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<p align="center">As i said in the fun fact, i've forged 3 years in development :<br><br>-In my first two years of coding was made in High School, i learned all the programming world, i discovered :<br><br>--🧠Algorithmic, terminaison, correction, complexity, recursivity etc...<br>--🗄️Data structures (graph, trees, LIFO/FILO)<br>--🐍Python programming language in DEPTH<br>--🖼️Web front-end development<br>--📋Databases using MariaDB SGBD<br>--💽Memory, SoC, processors etc..<br>AND MANY MORE, you can actually see what i've done in High School in my Eskool repository..<br><br>-Then La Plateforme_ came to me to continue my studies and reach a Bachelor IT, <br>i put all my learning and experience in High School into concrete projects. I did :<br><br>--🤼Project management, organisation (Github, Trello, Figma, Mermaid)<br>--🖼️Web development (portfolio, fansite, sales site)<br>--🎮Games development (Tic Tac Toe, Hangman game, Fruit slicer, Pokemon)<br>--🔢Software development (Bank managment app, Calculator, Clock)<br>--🆕Discover C, C++, Java, C# programming languages<br><br>As I am still at school, theres MANY projects that'll arrive, stay tuned !🔥</p>
+<p align="center">As i said in the fun fact, i've forged 3 years in development :<br><br>-My first two years of coding was made in High School, i learned all the programming world, i discovered :<br><br>--🧠Algorithmic, terminaison, correction, complexity, recursivity etc...<br>--🗄️Data structures (graph, trees, LIFO/FILO)<br>--🐍Python programming language in DEPTH<br>--🖼️Web front-end development<br>--📋Databases using MariaDB SGBD<br>--💽Memory, SoC, processors etc..<br>AND MANY MORE, you can actually see what i've done in High School in my Eskool repository..<br><br>-Then La Plateforme_ came to me to continue my studies and reach a Bachelor IT, <br>i put all my learning and experience in High School into concrete projects. I did :<br><br>--🤼Project management, organisation (Github, Trello, Figma, Mermaid)<br>--🖼️Web development (portfolio, fansite, sales site)<br>--🎮Games development (Tic Tac Toe, Hangman game, Fruit slicer, Pokemon)<br>--🔢Software development (Bank managment app, Calculator, Clock)<br>--🆕Discover C, C++, Java, C# programming languages<br><br>As I am still at school, theres MANY projects that'll arrive, stay tuned !🔥</p>
 
 ###
 
