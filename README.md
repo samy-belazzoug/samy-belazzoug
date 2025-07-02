@@ -23,6 +23,11 @@
 
 ###
 
+<h2 align="center"> NOTE : I've put all my projects in private for the moment ! </h2>
+<h3 align="center">My projects may be coming back on August...</h3>
+
+###
+
 <h2 align="center">About me..</h2>
 
 ###
