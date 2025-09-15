@@ -2,7 +2,7 @@
 
 ###
 
-<h2>⚠️​WARNING⚠️​<br> A lot of my repositories are in PRIVATE ! ⛔​ <br> So you'll have to wait to see other stuff than HTML/CSS 💀​</h2>
+<h2>WARNING / ACHTUNG / ATTENTION / ATTENZIONE <br> <br> A lot of my repositories are in PRIVATE ! ⛔​ <br> So you'll have to wait to see other stuff than HTML/CSS 💀​</h2>
 
 <img align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN6ZXoxb2Q0cWxwYWE2a2kydGc5OHFrbzV2Y2NiNWpiN2pveXRxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif"  />
 
