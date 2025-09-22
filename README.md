@@ -2,14 +2,7 @@
 
 ###
 
-<h2>WARNING / ACHTUNG / ATTENTION / ATTENZIONE <br> <br> A lot of my repositories are in PRIVATE ! ⛔​ <br> So you'll have to wait to see other stuff than HTML/CSS 💀​</h2>
-
-<img align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN6ZXoxb2Q0cWxwYWE2a2kydGc5OHFrbzV2Y2NiNWpiN2pveXRxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif"  />
-
-###
-<div align="left">
-<img height="150" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samy-belazzoug&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="samy-belazzoug's GitHub Stats" />
-</div>
+<h2>WARNING / ACHTUNG / ATTENTION / ATTENZIONE <br> <br> A lot of my repositories are in PRIVATE ! ⛔​ </h2>
 
 ###
 
@@ -57,8 +50,6 @@
 <h3>Tools : </h3>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="30" alt="visualstudio logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="30" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="30" alt="trello logo"  />
